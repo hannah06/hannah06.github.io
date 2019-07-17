@@ -1,2 +1,2 @@
-# hannah-blog-jekyll
+# blog-jekyll
 blog theme base on jekyll
